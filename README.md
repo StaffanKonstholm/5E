@@ -222,7 +222,7 @@ See lucky feat.
 It is too weak but a careless reading gives the impression of it protecting the user against divination spells, it does not.
 It was removed to make way to a buffed Mordekainen's Private Sanctum.
 
-## Walls
+### Walls
 I want the walls to be viable tools for crowdcontroll. This becomes a problem if they have to compete for high level spellslots
 with other spells that solve the problem by way of damage or just outright banishment. Moreover I want them to viable tools for CC at
 level 5.
