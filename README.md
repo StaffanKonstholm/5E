@@ -226,8 +226,3 @@ It was removed to make way to a buffed Mordekainen's Private Sanctum.
 I want the walls to be viable tools for crowdcontroll. This becomes a problem if they have to compete for high level spellslots
 with other spells that solve the problem by way of damage or just outright banishment. Moreover I want them to viable tools for CC at
 level 5.
-
-
-    * silvery barb is banned
-    * fortune's favor is banned
-    * nystul's magic aura is banned
