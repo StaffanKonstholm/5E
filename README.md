@@ -87,6 +87,7 @@
         * Mold earth affects 4x the volume
         * Stone shape affects 4x the volume
         * Grease has 4x the area. Can be set on fire
+        * Sickening radiance is a 20 foot sphere
         
       * Spell slots & duration
         * Entangle requires a bonus action
@@ -119,7 +120,6 @@
       * Arcane Eye is a 3rd level spell
       * Divination is a 3rd level spell
       * Locate Creature is a 3rd level spell and reaches up to 1 mile
-      * Sickening radiance is a 20 foot sphere
       * Scrying is a 4th level spell
       * Find the path is 5th level
     * Anti-radar
@@ -227,3 +227,7 @@ I want the walls to be viable tools for crowdcontroll. This becomes a problem if
 with other spells that solve the problem by way of damage or just outright banishment. Moreover I want them to viable tools for CC at
 level 5.
 
+### Radar & anti-radar
+I want a meta where out-of-combat (OOC) struggle revolves around trying to locate and track the enemy. All spells under the radar category 
+provide the players with tools for detecting the enemy. Conversely, all spells under the anti-radar category provide the players
+with tools to evade detection.
