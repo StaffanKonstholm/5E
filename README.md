@@ -156,7 +156,7 @@ do just that by removing choice. In a perfect world, all choices are sidegrades 
 
 ## Guiding principles
 ### Spellcasters vs martials
-Spellcasters should not be the primary damage per round(DPR) dealers. They can do stuff that martials can, having them outshine martials
+Spellcasters should not be the primary damage per round(DPR) dealers. They can do stuff that martials cannot, having them outshine martials
 begs the question "why play anything but a spellcaster?". 
 
 ### Spell vs spell
@@ -226,3 +226,4 @@ It was removed to make way to a buffed Mordekainen's Private Sanctum.
 I want the walls to be viable tools for crowdcontroll. This becomes a problem if they have to compete for high level spellslots
 with other spells that solve the problem by way of damage or just outright banishment. Moreover I want them to viable tools for CC at
 level 5.
+
