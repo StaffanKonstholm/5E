@@ -66,36 +66,36 @@
     * Crowdcontroll
       * Walls
         * All walls have 2x length
-        * Wall of Sand is a 2nd level spell
-        * Wall of Water is a 2nd level spell
-        * Wall of Fire is a 3rd level spell
-        * Wall of Stone is a 3rd level spell and gives no dex save
-        * Wall of Ice is a 4th level spell
-        * Wall of Thorns is a 4th level spell
+        * Wall of Sand is a 2nd level spell (and is now a bonus action)
+        * Wall of Water is a 2nd level spell (and is now a bonus action)
+        * Wall of Fire is a 3rd level spell (and is now a bonus action)
+        * Wall of Stone is a 3rd level spell and gives no dex save (and is now a bonus action)
+        * Wall of Ice is a 4th level spell (and is now a bonus action)
+        * Wall of Thorns is a 4th level spell (and is now a bonus action)
       * Volume & length
         * Control flames affects 4x the volume
         * Faerie Fire has 2x the area
         * Flaming sphere has 2x diameter
         * Pyrotechnics affect a 20 feet cube and is a 1st level spell
-        * Shape water affects 4x the volume
-        * Control water affects a cube of 400 feet and has
-        * Gust of wind is 2x wide and 2x long
+        * Shape water affects 4x the volume (and is now a bonus action)
+        * Control water affects a cube of 400 feet and has (and is now a bonus action)
+        * Gust of wind is 2x wide and 2x long (and is now a bonus action)
         * Catapult affects an object with 10x the weight
         * Silence has now a 30 feet radius
         * Slow affects a 60 foot cube
-        * Move earth is now a 3rd level spell
-        * Mold earth affects 4x the volume
-        * Stone shape affects 4x the volume
-        * Grease has 4x the area. Can be set on fire
+        * Move earth is now a 3rd level spell (and is now a bonus action)
+        * Mold earth affects 4x the volume (and is now a bonus action)
+        * Stone shape affects 4x the volume (and is now a bonus action)
+        * Grease has 4x the area. Can be set on fire (and is now a bonus action)
         * Sickening radiance is a 20 foot sphere
         
       * Spell slots & duration
-        * Entangle requires a bonus action
+        * Entangle only requires a bonus action 
         * Maximilian's earthen grasp affects up to 9 creatures instead of one        
         * Catnap has a 1 minute duration normally and 1-hour duration in gritty realism mode. It also affects 5 targets.
         * Hold person only requires a bonus action
-        * Telekinesis is now a 4th level spell and only requires a bonus action
-        * Hold monster is now a 4th level spell and only requires a bonus action
+        * Telekinesis is now a 4th level spell  (and is now a bonus action)
+        * Hold monster is now a 4th level spell (and is now a bonus action)
         * Rope trick can now hold 8 large creatures or smaller
         
       
