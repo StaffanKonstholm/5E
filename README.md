@@ -91,9 +91,10 @@
         
       * Spell slots & duration
         * Entangle only requires a bonus action 
+        * Tasha's hideous laughter only requires a bonus action
+        * Hold person only requires a bonus action
         * Maximilian's earthen grasp affects up to 9 creatures instead of one        
         * Catnap has a 1 minute duration normally and 1-hour duration in gritty realism mode. It also affects 5 targets.
-        * Hold person only requires a bonus action
         * Telekinesis is now a 4th level spell  (and is now a bonus action)
         * Hold monster is now a 4th level spell (and is now a bonus action)
         * Rope trick can now hold 8 large creatures or smaller
@@ -157,7 +158,7 @@ do just that by removing choice. In a perfect world, all choices are sidegrades 
 ## Guiding principles
 ### Spellcasters vs martials
 Spellcasters should not be the primary damage per round(DPR) dealers. They can do stuff that martials cannot, having them outshine martials
-begs the question "why play anything but a spellcaster?". 
+in combat begs the question "why play anything but a spellcaster?". 
 
 ### Spell vs spell
 At each level of a spellslot, no choice should be a must pick.
@@ -192,14 +193,14 @@ See wall of force.
 See wall of force.
 
 ### Goodberry
-This spell singlehandedly removes the need for looking for food, making survival in the wild trivial. In doing so it breaks 
-Tension and Release.
+This spell singlehandedly removes the need for looking for food, making survival in the wild trivial. Effectively, hunger does not matter.
+In doing so it breaks Tension and Release. 
 
 ### Create food and water
 See goodberry.
 
 ### Prestidigitation
-This spell singlehadedly removes the need for a bath. In doing so it breaks Tension and Release.
+This spell singlehadedly removes the need for a bath. Effectively, dirt and grime does not matter. In doing so it breaks Tension and Release.
 
 
 ### Shield
@@ -231,3 +232,10 @@ level 5.
 I want a meta where out-of-combat (OOC) struggle revolves around trying to locate and track the enemy. All spells under the radar category 
 provide the players with tools for detecting the enemy. Conversely, all spells under the anti-radar category provide the players
 with tools to evade detection.
+
+### Spells as bonus actions
+Most CC spells allow the target to make a check in order to escape the CC. In the worst case scenario the NPC is unaffected by the CC, while
+the caster has expended a spell slot and a turn. By changing the casting time to a bonus action, the worst case cost now becomes a spell slot
+and a bonus action. This now allows a caster to first CC then cast an offensive spell, for a brief few turns the caster can be a very effective
+partymember. This is counterbalanced by the limited spell slots of the caster - yes the PC could cast 2 spells a turn, but then they would run
+out of spell slots pretty quickly. Cantrips do not generate enough damage to worry a DM, just add more monsters or more hitpoints.
