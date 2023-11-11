@@ -2,6 +2,14 @@
 * short rest is a day, long rest is a week
 * ability score improvement + feat
 * hit dice is a resource
+* Fighter
+  * Battlemaster
+    * Battlemaster fighters get 2x the number of superiority dice and one additional maneuver at 3rd level.
+  * Echo knight
+    * The echo can interact with the environment as if it was a real person.
+* Druid
+  * Circle of the moon
+    * Wildshape lasts for for a number of hours equal to full druid level.
 * rogue class is dissallowed
   * rebalance
     * characters with criminal background get thieves cant and prof. with thieves tools and get prof. in stealth
@@ -65,6 +73,9 @@
       * Target gets a protection layer. The target can use this layer to automatically succeed a
       saving throw against a spell once, upon when the layer is used up. If the target takes 
       damage from a magical source, the damage is negated but the protection layer is used up.
+    * Purify corpse
+      * Necromancy, level 1 (all w/ spellslots), V, S, Touch
+      * Target corpse can no longer be brought back to life
 
   * Rebalance
   * Non-lethal overhaul
@@ -109,6 +120,7 @@
       * Shape water affects 4x the volume (and is now a bonus action)
       * Control water affects a cube of 400 feet and has (and is now a bonus action)
       * Gust of wind is 2x wide and 2x long (and is now a bonus action)
+      * Gust pushes a creature 30 feet (and is now a bonus action)
       * Catapult affects an object with 10x the weight
       * Silence has now a 30 feet radius
       * Slow affects a 60 foot cube
@@ -117,6 +129,8 @@
       * Stone shape affects 4x the volume (and is now a bonus action)
       * Grease has 4x the area. Can be set on fire (and is now a bonus action)
       * Sickening radiance is a 20 foot sphere
+      * Thorn whip has a range of 60 feet and drags 30 feet, (and is now a bonus action).
+      * 
       
     * Spell slots & duration
       * Entangle only requires a bonus action 
