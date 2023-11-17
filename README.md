@@ -130,7 +130,9 @@
       * Grease has 4x the area. Can be set on fire (and is now a bonus action)
       * Sickening radiance is a 20 foot sphere
       * Thorn whip has a range of 60 feet and drags 30 feet, (and is now a bonus action).
-      * 
+      * Thunderwave pushes 30 feet (and is now a bonus action)
+      * Pulse wave pushes 30 feet
+      * Eldritch blast push stacks
       
     * Spell slots & duration
       * Entangle only requires a bonus action 
@@ -138,7 +140,7 @@
       * Hold person only requires a bonus action
       * Maximilian's earthen grasp affects up to 9 creatures instead of one        
       * Catnap has a 1 minute duration normally and 1-hour duration in gritty realism mode. It also affects 5 targets.
-      * Telekinesis is now a 4th level spell  (and is now a bonus action)
+      * Telekinesis is now a 4th level spell, lasts until short rest and reaches 120 feet.
       * Hold monster is now a 4th level spell (and is now a bonus action)
       * Rope trick can now hold 8 large creatures or smaller
       
@@ -283,3 +285,21 @@ the caster has expended a spell slot and a turn. By changing the casting time to
 and a bonus action. This now allows a caster to first CC then cast an offensive spell, for a brief few turns the caster can be a very effective
 partymember. This is counterbalanced by the limited spell slots of the caster - yes the PC could cast 2 spells a turn, but then they would run
 out of spell slots pretty quickly. Cantrips do not generate enough damage to worry a DM, just add more monsters or more hitpoints.
+
+# Design
+## LVL5
+### Fighter
+E[1d12] + MOD[STR] = 6.5 + 3 = 9.5
+
+### GWM
+E[1d12] + MOD[STR] + 10 = 6.5 + 3 + 10 = 19.5
+
+### Agonizing Blast Hex Warlock
+E[1d10] + MOD[CHA] + E[HEX] = 5.5 + 3 + 4.5 = 12
+
+### Sword Bard
+E[1d6] + MOD[DEX] + INSPIRATION = 3.5 + 1 + 4.5 = 9
+
+
+### Monk
+2* (E[1d6] + MOD[DEX]) = 2* (3.5 + 3) = 2* 6.5 = 13 //can convert bonus action two attacks
